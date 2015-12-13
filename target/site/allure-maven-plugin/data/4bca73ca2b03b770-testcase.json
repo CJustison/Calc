@@ -1,11 +1,11 @@
 {
-  "uid" : "78899c5e1eea5ebb",
-  "name" : "CheckAdd",
-  "title" : "Check add",
+  "uid" : "4bca73ca2b03b770",
+  "name" : "CheckDiv",
+  "title" : "Check div",
   "time" : {
-    "start" : 1450015757958,
-    "stop" : 1450015757959,
-    "duration" : 1
+    "start" : 1450018649417,
+    "stop" : 1450018649417,
+    "duration" : 0
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "b73c63c369e5a55",
+    "uid" : "ec70252edf604547",
     "name" : "com.cjustison.calc.CalcOneTest",
     "title" : "Calc one test"
   },
@@ -29,7 +29,7 @@
     "value" : "Claire-TOSH"
   }, {
     "name" : "thread",
-    "value" : "7188@Claire-TOSH.main(1)"
+    "value" : "2768@Claire-TOSH.main(1)"
   }, {
     "name" : "suite-name",
     "value" : "com.cjustison.calc.CalcOneTest"

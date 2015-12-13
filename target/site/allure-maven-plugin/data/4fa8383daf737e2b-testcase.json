@@ -1,11 +1,11 @@
 {
-  "uid" : "c8ff440230c8ea2f",
+  "uid" : "4fa8383daf737e2b",
   "name" : "CheckMult",
   "title" : "Check mult",
   "time" : {
-    "start" : 1450015757939,
-    "stop" : 1450015757953,
-    "duration" : 14
+    "start" : 1450018649386,
+    "stop" : 1450018649402,
+    "duration" : 16
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "b73c63c369e5a55",
+    "uid" : "ec70252edf604547",
     "name" : "com.cjustison.calc.CalcOneTest",
     "title" : "Calc one test"
   },
@@ -29,7 +29,7 @@
     "value" : "Claire-TOSH"
   }, {
     "name" : "thread",
-    "value" : "7188@Claire-TOSH.main(1)"
+    "value" : "2768@Claire-TOSH.main(1)"
   }, {
     "name" : "suite-name",
     "value" : "com.cjustison.calc.CalcOneTest"
