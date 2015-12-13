@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1450015757898" stop="1450015757969" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>com.cjustison.calc.CalcOneTest</name>
+    <test-cases>
+        <test-case start="1450015757939" stop="1450015757953" status="passed">
+            <name>CheckMult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Claire-TOSH"/>
+                <label name="thread" value="7188@Claire-TOSH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1450015757958" stop="1450015757959" status="passed">
+            <name>CheckAdd</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Claire-TOSH"/>
+                <label name="thread" value="7188@Claire-TOSH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1450015757960" stop="1450015757960" status="passed">
+            <name>CheckDiv</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Claire-TOSH"/>
+                <label name="thread" value="7188@Claire-TOSH.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1450015757961" stop="1450015757961" status="passed">
+            <name>CheckSub</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Claire-TOSH"/>
+                <label name="thread" value="7188@Claire-TOSH.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,45 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 4,
+        "passed" : 4,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1450015757939,
+        "stop" : 1450015757961,
+        "duration" : 22
+      }
+    },
+    "defects" : [ ],
+    "xunit" : [ {
+      "uid" : "b73c63c369e5a55",
+      "title" : "Calc one test",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 4,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ],
+    "behaviors" : [ {
+      "title" : "Without feature",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 4,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ],
+    "environment" : [ ]
+  }
+}

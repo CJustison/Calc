@@ -1,0 +1,47 @@
+{
+  "uid" : "78899c5e1eea5ebb",
+  "name" : "CheckAdd",
+  "title" : "Check add",
+  "time" : {
+    "start" : 1450015757958,
+    "stop" : 1450015757959,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b73c63c369e5a55",
+    "name" : "com.cjustison.calc.CalcOneTest",
+    "title" : "Calc one test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Claire-TOSH"
+  }, {
+    "name" : "thread",
+    "value" : "7188@Claire-TOSH.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "com.cjustison.calc.CalcOneTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

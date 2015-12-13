@@ -1,0 +1,47 @@
+{
+  "uid" : "c8ff440230c8ea2f",
+  "name" : "CheckMult",
+  "title" : "Check mult",
+  "time" : {
+    "start" : 1450015757939,
+    "stop" : 1450015757953,
+    "duration" : 14
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b73c63c369e5a55",
+    "name" : "com.cjustison.calc.CalcOneTest",
+    "title" : "Calc one test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Claire-TOSH"
+  }, {
+    "name" : "thread",
+    "value" : "7188@Claire-TOSH.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "com.cjustison.calc.CalcOneTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}
